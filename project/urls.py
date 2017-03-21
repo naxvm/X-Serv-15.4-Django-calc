@@ -13,5 +13,5 @@ urlpatterns = [
     url(r'^(\d+)\-(\d+)$', views.resta),
     url(r'^(\d+)\*(\d+)$', views.multiplicacion),
     url(r'^(\d+)\/(\d+)$', views.division),
-    url(r'', views.not_found), # por defecto, para cazar otras posibilidades
+    url(r'', views.not_found),  # por defecto, para cazar otras posibilidades
 ]

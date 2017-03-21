@@ -69,7 +69,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Europe/Madrid' # Time zone changed
+TIME_ZONE = 'Europe/Madrid'  # Time zone changed
 
 USE_I18N = True
 
